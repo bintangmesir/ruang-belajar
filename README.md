@@ -2,5 +2,5 @@
 
 Contributor:
 
-- '<BINTANG MESIR> - <FE2947750>'
+- 'BINTANG MESIR - FE2947750'
 - Bob
